@@ -1,6 +1,8 @@
 # HI
 This is my project for Cookie's Code Cup 3. If you don't know what that is, you can probably just ignore this lol.
 
+You can play it by going to https://terpyderp.github.io/3C3-thing/.
+
 # info
 
 This garbage program was made by terpyderp using Godot Engine.
